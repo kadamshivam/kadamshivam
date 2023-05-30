@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kadamshivam
 - 👀 I’m interested in solving Coding Problems
-- 🌱 I’m currently learning Advance Machine Learning 
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on Full Stack Development projects
 - 📫 Reach me at kadams3@udayton.edu
 
 <!---
